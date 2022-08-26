@@ -1,6 +1,6 @@
 {
     "buffering_until": 5,
-    "max_buffer_size": 60,
+    "max_buffer_size": 105,
     "playbak_step": 1,
     "traffic_shaping_profile_interval": "5",
     "traffic_shaping_profile_sequence": "MMMHH",
